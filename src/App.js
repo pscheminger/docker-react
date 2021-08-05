@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>Hello. This is me at my finest.</p>
         <p>And me again after doing another push.</p>
+        <p>And now on the feature branch.</p>
         <a
           className="App-link"
           href="https://reactjs.org"
